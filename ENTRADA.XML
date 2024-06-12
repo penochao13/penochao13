@@ -11,5 +11,14 @@
 <externallink>https://raw.githubusercontent.com/penochao13/penochao13/main/FILMES2024.XML</externallink>
 </channel>
 
+<channel>
+<name>[B][COLOR red]Séries Lançamentos[/COLOR] [COLOR purple]Dublados e Legendados 2024[/COLOR][/B]</name>
+<thumbnail>https://archive.org/download/icon_20240611/icon.png</thumbnail>
+<fanart>https://archive.org/download/icon_20240611/icon.png</fanart>
+<info>[COLOR red] [COLOR blue] Bem vindo ao addon Filmes [/COLOR]</info>
+<externallink></externallink>
+</channel>
+
+
 
 </channels>
