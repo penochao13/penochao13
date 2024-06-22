@@ -84,12 +84,22 @@
 </channel>
 
 <channel>
+<name>[B][COLOR red]Pluto Tv[/COLOR] [COLOR purple]Online[/COLOR][/B]</name>
+<thumbnail>https://archive.org/download/wallpapersden.com_k-the-crow-1994-movie-poster_512x512/wallpapersden.com_k-the-crow-1994-movie-poster_512x512.jpg</thumbnail>
+<fanart>https://archive.org/download/wallpapersden.com_k-the-crow-1994-movie-poster_512x512/wallpapersden.com_k-the-crow-1994-movie-poster_512x512.jpg</fanart>
+<info>[COLOR red] [COLOR blue] Bem vindo ao addon PlutoTv [/COLOR]</info>
+<externallink></externallink>
+</channel>
+
+<channel>
 <name>[B][COLOR red]Tv e FiLmes Adultos[/COLOR] [COLOR purple]+18[/COLOR][/B]</name>
 <thumbnail>https://archive.org/download/wallpapersden.com_k-the-crow-1994-movie-poster_512x512/wallpapersden.com_k-the-crow-1994-movie-poster_512x512.jpg</thumbnail>
 <fanart>https://archive.org/download/wallpapersden.com_k-the-crow-1994-movie-poster_512x512/wallpapersden.com_k-the-crow-1994-movie-poster_512x512.jpg</fanart>
 <info>[COLOR red] [COLOR blue] Bem vindo ao addon Filmes [/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/penochao13/penochao13/main/TVEFILMESADULTOS</externallink>
 </channel>
+
+
 
 
 
