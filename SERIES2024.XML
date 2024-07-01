@@ -3,16 +3,6 @@
 
 
 
-
-<item>
-<title>Um Gato de Sorte (2024)</title>
-<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/v/lD6xLLp18Yh7YeY</link>
-<thumbnail>https://image.tmdb.org/t/p/original/AkL5MsgBx3TqB3ietPEKEUmzbWA.jpg</thumbnail>
-<genre>Animação, Comédia, Família, Fantasia</genre>
-<fanart>https://image.tmdb.org/t/p/original/AkL5MsgBx3TqB3ietPEKEUmzbWA.jpg</fanart>
-<info>Beckett é um gato mimado e egoísta que dá como certa a sorte que recebeu. Tudo isso está prestes a mudar, porém, quando ele perde descuidadamente sua nona vida.</info>
-</item>
-
 <item>
 <title>[B][COLOR green]A Casa do Dragão - 2ª Temporada (2024)[/COLOR] [COLOR yellow]Dublada & Legendada[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:QWLX3NXVNJHWU66YF7B6WRGZPTNL6WJ7$nome=[B][COLOR blue]Episódios 01 Elementun[/COLOR][/B]</link>
@@ -542,6 +532,15 @@
 </item>
 
 <item>
+<title>Uma Natureza Violenta (2024)</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.ms/f/9n99jomwfozwj</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vo4dqLToKIwmYOc5aySH4SpN4k0.jpg</thumbnail>
+<genre>Terror</genre>
+<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vo4dqLToKIwmYOc5aySH4SpN4k0.jpg</fanart>
+<info>A enigmática ressurreição, violência e retribuição de um monstro morto-vivo em um deserto remoto desencadeia um novo assassino icônico depois que um medalhão é removido de uma torre de fogo desabada que sepultava seu cadáver em decomposição.</info>
+</item>
+
+<item>
 <title>Um Lugar Silencioso: Dia Um (2024)</title>
 <link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/v/JkLwWd2g2AhjX7q</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pN9BtzUeqPIKybAu9baihz6YzyO.jpg</thumbnail>
@@ -558,6 +557,7 @@
 <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5sDDmnlZAzLQuha93ArGLXjeB92.jpg</fanart>
 <info>Segunda temporada da série Velma. Descubra o complexo e colorido passado de uma das mais amadas investigadoras de mistérios. Velma é uma animação adulta baseada na famosa personagem da franquia Scooby-Doo. Criada por Mindy Kaling, de The Office, a série explora a jovem detetive novamente investigando crimes assombrosos e aparições fantasmagóricas. Mas diferente da série original, em sua própria série Velma vive situações muito mais adultas e os criminosos que ela investiga são muito mais violentos. Preparada para tudo, a inteligente investigadora não tem medo de nada e encara as situações com toda a sua habilidade de decifrar mistérios.</info>
 </item>
+
 
 <item>
 <title>[B][COLOR green]Vikings - Valhalla - 1ª/2ª Temporada (2022/24)[/COLOR] [COLOR yellow]Dublada & Legendada[/COLOR][/B]</title>
