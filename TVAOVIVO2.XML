@@ -1,121 +1,474 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PiNgxsI.jpg group-title="MENU",[COLOR yellow][B]Ultima AtualizaÃ§Ã£o||[/B][/COLOR] 03/05 - 19:49
+#EXTINF:-1,[COLOR pink][B]FORMIGAtv:[/B][/COLOR] [COLOR yellow][B]FORMIGAtv... ||[/B][/COLOR][COLOR pink][B] Atualizado: 15/05 - 19:05[/B][/COLOR]
 https://s3.us-west-1.wasabisys.com/apkformiga/Novo%20projeto.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PiNgxsI.jpg group-title="MENU",[COLOR yellow][B]VOD FORMIGAtv[/B][/COLOR]
+EXTINF:-1,[COLOR pink][B]FORMIGAtv:[/B][/COLOR] [COLOR yellow][B]FORMIGAtv... ||[/B][/COLOR] [COLOR red][B] Todos os canais SEM TRAVAS 24hs||[/B][/COLOR] [COLOR rosa][B] 37-9.91253261 zap[/B][/COLOR]
 https://s3.us-west-1.wasabisys.com/apkformiga/Novo%20projeto.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PiNgxsI.jpg group-title="MENU",[COLOR yellow][B]Todas os canais SEM TRAVAS  24hs:[/B][/COLOR] 37-9.91253261[COLOR red][B] zapDOFormiga[/B][/COLOR]
-https://s3.us-west-1.wasabisys.com/apkformiga/Novo%20projeto.mp4
-#EXTINF:-1 type="video" tvg-id="A Banda das Velhas Virgens (1979)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j5EyMigXEtb9o9LAjeBOIYyHgb5.jpg" description="",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] A Banda das Velhas Virgens (1979)
-http://dns.tvdecasa.top/movie/Formigatv/offilinetv0305/1384457.mp4
-#EXTINF:-1 type="video" tvg-id="A Carrocinha (1955)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oRyCJAz6I6kYdM3qER8ko7I6l5d.jpg" description="",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] A Carrocinha (1955)
-http://dns.tvdecasa.top/movie/Formigatv/offilinetv0305/1384505.mp4
-#EXTINF:-1 type="video" tvg-id="Acertando as Contas com Papai (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9D5OWTffE2tmj6Da45NSYjk9zjY.jpg" description="",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Acertando as Contas com Papai (1994)
-http://dns.tvdecasa.top/movie/Formigatv/offilinetv0305/1385273.mp4
-#EXTINF:-1 type="video" tvg-id="Allan Quatermain e a Cidade do Ouro Perdido (1986)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u21WQPaJXxFCSKKyI0CWdu21Idt.jpg" description="",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Allan Quatermain e a Cidade do Ouro Perdido (1986)
-http://dns.tvdecasa.top/movie/Formigatv/offilinetv0305/1385420.mp4
-#EXTINF:-1 type="video" tvg-id="As Aventuras de Pedro Malasartes (1960)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/38vUpNIbGdjYEzjBw0X4GbIIv5g.jpg" description="",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] As Aventuras de Pedro Malasartes (1960)
-http://dns.tvdecasa.top/movie/Formigatv/offilinetv0305/1385779.mp4
-#EXTINF:-1 type="video" tvg-id="BetÃ£o Ronca Ferro (1970)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jI0JQFmqS2fWGn4ayogYvOOqrK9.jpg" description="",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] BetÃ£o Ronca Ferro (1970)
-http://dns.tvdecasa.top/movie/Formigatv/offilinetv0305/1386219.mp4
-#EXTINF:-1 type="video" tvg-id="Casinha Pequenina (1963)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tR0ynVLescjusSwaEBoYohRbAtW.jpg" description="",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Casinha Pequenina (1963)
-http://dns.tvdecasa.top/movie/Formigatv/offilinetv0305/1386527.mp4
-#EXTINF:-1 type="video" tvg-id="Chico FumaÃ§a (1956)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ojNcg7rKA65GVMvyH86OEAZSxc7.jpg" description="",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Chico FumaÃ§a (1956)
-http://dns.tvdecasa.top/movie/Formigatv/offilinetv0305/1386609.mp4
-#EXTINF:-1 type="video" tvg-id="Chofer de PraÃ§a (1959)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7yyVIQO8DTpp5XgfDfueE1OtMV2.jpg" description="",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Chofer de PraÃ§a (1959)
-http://dns.tvdecasa.top/movie/Formigatv/offilinetv0305/1386619.mp4
-#EXTINF:-1 type="video" tvg-id="Creepshow 2: Show de Horrores (1987)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rKO5wg4Lmcj1yBEl5hrM0Fnzuz0.jpg" description="",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Creepshow 2: Show de Horrores (1987)
-http://dns.tvdecasa.top/movie/Formigatv/offilinetv0305/1386919.mp4
-#EXTINF:-1 type="video" tvg-id="Creepshow: Arrepio do Medo (1982)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tMvYrtFEhd4Gevl16Zdc5EAo6P5.jpg" description="",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Creepshow: Arrepio do Medo (1982)
-http://dns.tvdecasa.top/movie/Formigatv/offilinetv0305/1386920.mp4
-#EXTINF:-1 type="video" tvg-id="Fuzileiro do Amor (1956)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k6soNtOb4gjIf7IAgWOtrrGFAum.jpg" description="",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Fuzileiro do Amor (1956)
-http://dns.tvdecasa.top/movie/Formigatv/offilinetv0305/1388061.mp4
-#EXTINF:-1 type="video" tvg-id="Grizzly,[COLOR pink][B]FORMIGAtv:[/B][/COLOR]  A ForÃ§a Assassina (1976)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3LMJ0l4ckAf0e7zzK0l8ptsrhGJ.jpg" description="",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Grizzly,[COLOR pink][B]FORMIGAtv:[/B][/COLOR]  A ForÃ§a Assassina (1976)
-http://dns.tvdecasa.top/movie/Formigatv/offilinetv0305/1388238.mp4
-#EXTINF:-1 type="video" tvg-id="Hardcore: No Submundo do Sexo (1979)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x2tkwD63LS7IHieJBms2Z8H6Wq.jpg" description="",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Hardcore: No Submundo do Sexo (1979)
-http://dns.tvdecasa.top/movie/Formigatv/offilinetv0305/1388321.mp4
-#EXTINF:-1 type="video" tvg-id="HerÃ³is Muito Loucos (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hUUt97GiCDugE8oTIbhiwTyNhD7.jpg" description="",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] HerÃ³is Muito Loucos (1999)
-http://dns.tvdecasa.top/movie/Formigatv/offilinetv0305/1388383.mp4
-#EXTINF:-1 type="video" tvg-id="InvasÃ£o U.S.A. (1985)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n38Da1K9TfjzcPgMKIgky0HNBzF.jpg" description="",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] InvasÃ£o U.S.A. (1985)
-http://dns.tvdecasa.top/movie/Formigatv/offilinetv0305/1388633.mp4
-#EXTINF:-1 type="video" tvg-id="Jeca Contra o Capeta (1976)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w40eVyDa9C4U0F5QQSeDOqJ1SiC.jpg" description="",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Jeca Contra o Capeta (1976)
-http://dns.tvdecasa.top/movie/Formigatv/offilinetv0305/1388713.mp4
-#EXTINF:-1 type="video" tvg-id="Jeca e Seu Filho Preto (1978)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3zLb6aYiPDe5WPdxFdeB6pvLxET.jpg" description="",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Jeca e Seu Filho Preto (1978)
-http://dns.tvdecasa.top/movie/Formigatv/offilinetv0305/1388714.mp4
-#EXTINF:-1 type="video" tvg-id="Jeca Tatu (1959)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zFd1IzwexpicNpfndRYBALcC6Qn.jpg" description="",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Jeca Tatu (1959)
-http://dns.tvdecasa.top/movie/Formigatv/offilinetv0305/1388715.mp4
-#EXTINF:-1 type="video" tvg-id="JecÃ£o... Um Fofoqueiro no CÃ©u (1977)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iNFXnXReuJWU7x1Wyqs2joDl6fc.jpg" description="",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] JecÃ£o... Um Fofoqueiro no CÃ©u (1977)
-http://dns.tvdecasa.top/movie/Formigatv/offilinetv0305/1388716.mp4
-#EXTINF:-1 type="video" tvg-id="Mazzaropi - O Cineasta das PlatÃ©ias (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rAcTZc4bxkcOnhX3hlfiGuH32Q3.jpg" description="",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Mazzaropi - O Cineasta das PlatÃ©ias (2002)
-http://dns.tvdecasa.top/movie/Formigatv/offilinetv0305/1389401.mp4
-#EXTINF:-1 type="video" tvg-id="Meu JapÃ£o Brasileiro (1965)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4b84tvnDqzkopUl6J1722BL3Hkc.jpg" description="",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Meu JapÃ£o Brasileiro (1965)
-http://dns.tvdecasa.top/movie/Formigatv/offilinetv0305/1389506.mp4
-#EXTINF:-1 type="video" tvg-id="MistÃ©rio no Parque Gorky (1983)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fX8TDu4lW72UYJU1Qr4xzAjPvuk.jpg" description="",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] MistÃ©rio no Parque Gorky (1983)
-http://dns.tvdecasa.top/movie/Formigatv/offilinetv0305/1389672.mp4
-#EXTINF:-1 type="video" tvg-id="Muito Barulho Por Nada (1993)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hMU3oUyaMr1fuCBTpBAxMxAJwCE.jpg" description="",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Muito Barulho Por Nada (1993)
-http://dns.tvdecasa.top/movie/Formigatv/offilinetv0305/1389760.mp4
-#EXTINF:-1 type="video" tvg-id="MÃ¡quina MortÃ­fera (1987)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mE6PI7AR9GYCOu7M0zmTuzJGGCa.jpg" description="",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] MÃ¡quina MortÃ­fera (1987)
-http://dns.tvdecasa.top/movie/Formigatv/offilinetv0305/1389812.mp4
-#EXTINF:-1 type="video" tvg-id="MÃ¡quina MortÃ­fera 2 (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xmLVl0IJuOuZn5RiyBgxEXQ5cai.jpg" description="",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] MÃ¡quina MortÃ­fera 2 (1989)
-http://dns.tvdecasa.top/movie/Formigatv/offilinetv0305/1389813.mp4
-#EXTINF:-1 type="video" tvg-id="MÃ¡quina MortÃ­fera 3 (1992)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fkEX64OnvSNP2HnESRjPuuUsi2F.jpg" description="",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] MÃ¡quina MortÃ­fera 3 (1992)
-http://dns.tvdecasa.top/movie/Formigatv/offilinetv0305/1389814.mp4
-#EXTINF:-1 type="video" tvg-id="MÃ¡quina MortÃ­fera 4 (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6f2IQoZl2vwT95AaCQz6EgYQ7sL.jpg" description="",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] MÃ¡quina MortÃ­fera 4 (1998)
-http://dns.tvdecasa.top/movie/Formigatv/offilinetv0305/1389815.mp4
-#EXTINF:-1 type="video" tvg-id="Nadando em Dinheiro (1952)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/57qa906MsDpw0daO268vOtxYUn7.jpg" description="",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Nadando em Dinheiro (1952)
-http://dns.tvdecasa.top/movie/Formigatv/offilinetv0305/1389870.mp4
-#EXTINF:-1 type="video" tvg-id="No ParaÃ­so das Solteironas (1969)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gQSWehEZLG9qpxiUaEOIQannwpV.jpg" description="",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] No ParaÃ­so das Solteironas (1969)
-http://dns.tvdecasa.top/movie/Formigatv/offilinetv0305/1390005.mp4
-#EXTINF:-1 type="video" tvg-id="O Candinho (1976)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l7uoKMgI2dtDTQ0Oezr8AmeFya8.jpg" description="",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] O Candinho (1976)
-http://dns.tvdecasa.top/movie/Formigatv/offilinetv0305/1390250.mp4
-#EXTINF:-1 type="video" tvg-id="O Corintiano (1967)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6m3Q4lzp6rPNQjr5rw1xY8ul56C.jpg" description="",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] O Corintiano (1967)
-http://dns.tvdecasa.top/movie/Formigatv/offilinetv0305/1390337.mp4
-#EXTINF:-1 type="video" tvg-id="O Gato de Madame (1957)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ctBEuCeUY6qk1glqME9lttzdEpu.jpg" description="",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] O Gato de Madame (1957)
-http://dns.tvdecasa.top/movie/Formigatv/offilinetv0305/1390533.mp4
-#EXTINF:-1 type="video" tvg-id="O Grande Xerife (1972)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rOQDqsR4iJMGjwymWQCPRlhHQEz.jpg" description="",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] O Grande Xerife (1972)
-http://dns.tvdecasa.top/movie/Formigatv/offilinetv0305/1390565.mp4
-#EXTINF:-1 type="video" tvg-id="O Jeca e a Freira (1968)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vMb8pki9s2xXY2ggig44qYSD1EI.jpg" description="",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] O Jeca e a Freira (1968)
-http://dns.tvdecasa.top/movie/Formigatv/offilinetv0305/1390658.mp4
-#EXTINF:-1 type="video" tvg-id="O Jeca e a Ã‰gua Milagrosa (1980)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gpgvRnaGr3bTtRVbC3J5gBdd1n7.jpg" description="",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] O Jeca e a Ã‰gua Milagrosa (1980)
-http://dns.tvdecasa.top/movie/Formigatv/offilinetv0305/1390659.mp4
-#EXTINF:-1 type="video" tvg-id="O Jeca Macumbeiro (1975)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uEnAkonmjhqJb4VDoO2JJUgJB5H.jpg" description="",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] O Jeca Macumbeiro (1975)
-http://dns.tvdecasa.top/movie/Formigatv/offilinetv0305/1390660.mp4
-#EXTINF:-1 type="video" tvg-id="O Lamparina (1964)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wgaJd0GWOuV8AnEMlKvh7xfJ9f4.jpg" description="",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] O Lamparina (1964)
-http://dns.tvdecasa.top/movie/Formigatv/offilinetv0305/1390687.mp4
-#EXTINF:-1 type="video" tvg-id="O Noivo da Girafa (1957)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xZw616eAckvyN2Iid8e1Pu98l16.jpg" description="",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] O Noivo da Girafa (1957)
-http://dns.tvdecasa.top/movie/Formigatv/offilinetv0305/1390849.mp4
-#EXTINF:-1 type="video" tvg-id="O Pagador de Promessas 1 (1962)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/udIwjCpsorFKdn1XHJgV1Zc7Joe.jpg" description="",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] O Pagador de Promessas 1 (1962)
-http://dns.tvdecasa.top/movie/Formigatv/offilinetv0305/1390873.mp4
-#EXTINF:-1 type="video" tvg-id="O Pagador de Promessas 2 (1962)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/udIwjCpsorFKdn1XHJgV1Zc7Joe.jpg" description="",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] O Pagador de Promessas 2 (1962)
-http://dns.tvdecasa.top/movie/Formigatv/offilinetv0305/1390874.mp4
-#EXTINF:-1 type="video" tvg-id="O Pianista (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s0evYrftQZepUEaLPUFUdRvBG80.jpg" description="",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] O Pianista (2002)
-http://dns.tvdecasa.top/movie/Formigatv/offilinetv0305/1390911.mp4
-#EXTINF:-1 type="video" tvg-id="O Puritano da Rua Augusta (1965)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oqnX0H9idfi7MN9dmCNLG8SaIlB.jpg" description="",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] O Puritano da Rua Augusta (1965)
-http://dns.tvdecasa.top/movie/Formigatv/offilinetv0305/1390981.mp4
-#EXTINF:-1 type="video" tvg-id="O Vendedor de LinguiÃ§a (1962)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fbLbrVjBWTkJO2vRDZRanfX3ORM.jpg" description="",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] O Vendedor de LinguiÃ§a (1962)
-http://dns.tvdecasa.top/movie/Formigatv/offilinetv0305/1391184.mp4
-#EXTINF:-1 type="video" tvg-id="Os Deuses Devem Estar Loucos (1980)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hGarrJ26C9I4K1N4iG2RlrCS6W5.jpg" description="",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Os Deuses Devem Estar Loucos (1980)
-http://dns.tvdecasa.top/movie/Formigatv/offilinetv0305/1391395.mp4
-#EXTINF:-1 type="video" tvg-id="Os Deuses Devem Estar Loucos 2 (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vqsKkl4Tr1IU7rPmwoeE5p6BIwi.jpg" description="",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Os Deuses Devem Estar Loucos 2 (1989)
-http://dns.tvdecasa.top/movie/Formigatv/offilinetv0305/1391396.mp4
-#EXTINF:-1 type="video" tvg-id="Os Deuses Devem Estar Loucos 3 (1991)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tz3sQxWuDC3wo7W3PBQswqsgqMx.jpg" description="",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Os Deuses Devem Estar Loucos 3 (1991)
-http://dns.tvdecasa.top/movie/Formigatv/offilinetv0305/1391397.mp4
-#EXTINF:-1 type="video" tvg-id="Portugal... Minha Saudade (1974)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hvz6PW5TotlI1KrCPVX28fkosnf.jpg" description="",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Portugal... Minha Saudade (1974)
-http://dns.tvdecasa.top/movie/Formigatv/offilinetv0305/1391922.mp4
-#EXTINF:-1 type="video" tvg-id="Ring: Espiral (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/za2XIkQ249e1qQ0hhHhV8pAcGGZ.jpg" description="",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Ring: Espiral (1998)
-http://dns.tvdecasa.top/movie/Formigatv/offilinetv0305/1392387.mp4
-#EXTINF:-1 type="video" tvg-id="Sai da Frente (1952)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p12jJmcYkk4Mr9VTx10i41w9ADn.jpg" description="",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Sai da Frente (1952)
-http://dns.tvdecasa.top/movie/Formigatv/offilinetv0305/1392512.mp4
-#EXTINF:-1 type="video" tvg-id="Shakma: FÃºria Assassina (1990)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tJ7syW8FHAUjmPxkylNa7b3muu.jpg" description="",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Shakma: FÃºria Assassina (1990)
-http://dns.tvdecasa.top/movie/Formigatv/offilinetv0305/1392736.mp4
-#EXTINF:-1 type="video" tvg-id="South Central: O Bairro Proibido (1992)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f0jcTLZE8WwOTZ2kvPfjB91rD1j.jpg" description="",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] South Central: O Bairro Proibido (1992)
-http://dns.tvdecasa.top/movie/Formigatv/offilinetv0305/1392921.mp4
-#EXTINF:-1 type="video" tvg-id="Tristeza do Jeca (1961)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vjCBeW5tJGX1CdO7jlePqSN7u0b.jpg" description="",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Tristeza do Jeca (1961)
-http://dns.tvdecasa.top/movie/Formigatv/offilinetv0305/1393453.mp4
-#EXTINF:-1 type="video" tvg-id="Um Caipira em Bariloche (1973)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/326QolRfXjlOsdIarjAvnfHEiPH.jpg" description="",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Um Caipira em Bariloche (1973)
-http://dns.tvdecasa.top/movie/Formigatv/offilinetv0305/1393586.mp4
-#EXTINF:-1 type="video" tvg-id="Um Policial Acima da Lei (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nrgpYz4cl9DHDzzAoNq0RYJktiY.jpg" description="",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Um Policial Acima da Lei (1988)
-http://dns.tvdecasa.top/movie/Formigatv/offilinetv0305/1393745.mp4
-#EXTINF:-1 type="video" tvg-id="Uma Pistola Para Djeca (1969)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4ektHC3oPm4KQUmzBoFiIcFC8Qb.jpg" description="",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Uma Pistola Para Djeca (1969)
-http://dns.tvdecasa.top/movie/Formigatv/offilinetv0305/1393895.mp4
-#EXTINF:-1 type="video" tvg-id="ZÃ© do Periquito (1960)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gWKkNcueoXTIv5hIxY9ZV1lEQdR.jpg" description="",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] ZÃ© do Periquito (1960)
-http://dns.tvdecasa.top/movie/Formigatv/offilinetv0305/1394316.mp4
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="44 GATOS" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] 44 GATOS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541334.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="American housewife" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] American housewife
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541335.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="As Aventuras de Tom e Jerry" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] As Aventuras de Tom e Jerry
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541336.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Batman e Robin" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Batman e Robin
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541337.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Caverna do DragÃ£o" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Caverna do DragÃ£o
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541338.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Changeman" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Changeman
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541339.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CÃ£o coragem" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] CÃ£o coragem
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541340.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dr. Stone" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Dr. Stone
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541342.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dragonball Z a Saga dos Androids" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Dragonball Z a Saga dos Androids
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541343.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="3 Palavrinhas" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] 3 Palavrinhas
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541344.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DragonBall Z Saga de Babidi" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] DragonBall Z Saga de Babidi
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541346.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dragonball Z Saga Namekusei" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Dragonball Z Saga Namekusei
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541347.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A Casa do Mickey Mouse" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] A Casa do Mickey Mouse
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541348.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dragonball Z Saga de Saya" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Dragonball Z Saga de Saya
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541349.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE FAROESTE" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] CINE FAROESTE
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541350.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Henry Danger" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Henry Danger
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541351.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="iCarly" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] iCarly
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541352.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="INUYASHA" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] INUYASHA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541353.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OS JETSONS" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] OS JETSONS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541354.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Manny MÃ£os a obra" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Manny MÃ£os a obra
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541355.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Os GÃ¡rgulas" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Os GÃ¡rgulas
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541356.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Power Rangers" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Power Rangers
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541357.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Shaman King" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Shaman King
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541358.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Vingadores os Super-herÃ³is Mais poderosos da terra" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Vingadores os Super-herÃ³is Mais poderosos da terra
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541359.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A Turma da Pantera cor de Rosa" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] A Turma da Pantera cor de Rosa
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541362.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bananas de Pijama" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Bananas de Pijama
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541363.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bob o Construtor" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Bob o Construtor
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541364.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bones" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Bones
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541365.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Breaking bad" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Breaking bad
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541366.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bycrossers" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Bycrossers
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541367.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Castores Pirados" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Castores Pirados
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541368.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Contos assustadores de Marsha" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Contos assustadores de Marsha
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541369.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dragonball" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Dragonball
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541370.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Chaves T07" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Chaves T07
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541371.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Escolinha Professor Raimundo Anos 90" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Escolinha Professor Raimundo Anos 90
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541372.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Eu sou o MÃ¡ximo" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Eu sou o MÃ¡ximo
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541373.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FaÃ­sca e FumaÃ§a" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] FaÃ­sca e FumaÃ§a
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541374.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Frankstein Jr e os impossÃ­veis" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Frankstein Jr e os impossÃ­veis
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541375.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freakazoid" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Freakazoid
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541376.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Gato Felix" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Gato Felix
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541377.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="He-man" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] He-man
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541378.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Hilda FuracÃ£o" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Hilda FuracÃ£o
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541379.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="House of cards" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] House of cards
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541380.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IrmÃ£os a obra" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] IrmÃ£os a obra
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541381.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kamen Rider" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Kamen Rider
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541382.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Largados e pelados a tribo" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Largados e pelados a tribo
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541383.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Lego Uma Aventura Na Cidade" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Lego Uma Aventura Na Cidade
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541384.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Maria Magdalena" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Maria Magdalena
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541385.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Marvel Demolidor" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Marvel Demolidor
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541386.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Megaman Classico" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Megaman Classico
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541387.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Migthor Moby Dick" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Migthor Moby Dick
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541388.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="The Mandalorian" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] The Mandalorian
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541389.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IrmÃ£o do Jorel" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] IrmÃ£o do Jorel
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541390.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Largados e pelados" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Largados e pelados
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541391.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="O Show dos Looney Tunes" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] O Show dos Looney Tunes
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541392.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="O Que hÃ¡ De Novo Scooby Doo" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] O Que hÃ¡ De Novo Scooby Doo
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541393.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Os 7A" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Os 7A
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541394.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Os CaÃ§as Fantasmas" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Os CaÃ§as Fantasmas
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541395.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Os Jovens Titans em AÃ§Ã£o" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Os Jovens Titans em AÃ§Ã£o
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541396.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Os Jovens Titans em AÃ§Ã£o T05" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Os Jovens Titans em AÃ§Ã£o T05
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541397.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Os Roni" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Os Roni
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541398.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Os Simpsons 2000-2010" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Os Simpsons 2000-2010
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541399.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Os Smurfs" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Os Smurfs
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541400.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Os trapalhÃµes" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Os trapalhÃµes
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541401.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Patrulha canina T01" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Patrulha canina T01
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541402.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Patrulha canina T02" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Patrulha canina T02
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541403.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Patrulha canina T03" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Patrulha canina T03
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541404.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Patrulha canina T04" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Patrulha canina T04
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541405.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Perdido Nas Estrelas" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Perdido Nas Estrelas
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541406.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Plic e plock" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Plic e plock
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541407.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PolÃ­cia 24Horas" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] PolÃ­cia 24Horas
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541408.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Que Legal Scooby Doo" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Que Legal Scooby Doo
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541409.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Robocop Desenho" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Robocop Desenho
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541410.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="She-ra ClÃ¡ssica" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] She-ra ClÃ¡ssica
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541411.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Silverhawk" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Silverhawk
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541412.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Simpsons T34" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Simpsons T34
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541413.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Simpsons T35" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Simpsons T35
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541414.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Super choque" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Super choque
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541415.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Supernatural T01-05" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Supernatural T01-05
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541416.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Surfista Prateado" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Surfista Prateado
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541417.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tarzan" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Tarzan
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541418.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Turma do Ronaldinho gaÃºcho" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Turma do Ronaldinho gaÃºcho
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541419.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Turma do ZÃ© comeia" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Turma do ZÃ© comeia
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541420.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tv colosso" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Tv colosso
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541421.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="V A Batalha Final" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] V A Batalha Final
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541422.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WANDINHA" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] WANDINHA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541423.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Wolverine e os X-Men" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Wolverine e os X-Men
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541424.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="XodÃ³ Da VovÃ³" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] XodÃ³ Da VovÃ³
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541425.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Zorro" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Zorro
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541431.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A Familia Hathaways" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] A Familia Hathaways
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541432.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A Vaca e o Frango" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] A Vaca e o Frango
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541433.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AmigÃ£ozÃ£o" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] AmigÃ£ozÃ£o
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541434.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Animazoo" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Animazoo
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541435.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Baby Looney Tunes" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Baby Looney Tunes
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541436.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Backyardigans" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Backyardigans
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541437.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ben 10 ominiverse" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Ben 10 ominiverse
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541438.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Bob Zoom
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541439.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cavalo de Fogo" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Cavalo de Fogo
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541440.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Clarencio o otimista" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Clarencio o otimista
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541441.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cybercops" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Cybercops
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541442.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="De volta para o futuro" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] De volta para o futuro
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541443.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Desencanto" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Desencanto
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541444.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Desenhos Biblicos" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Desenhos Biblicos
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541445.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pato Donald" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Pato Donald
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541446.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Doug" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Doug
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541447.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Duck dodger" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Duck dodger
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541448.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dunk clÃ¡ssico" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Dunk clÃ¡ssico
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541449.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FÃ¡bulas da Disney" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] FÃ¡bulas da Disney
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541450.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Feiticeiros de warvely" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Feiticeiros de warvely
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541451.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Formiga atÃ´mica" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Formiga atÃ´mica
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541452.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Galinha Baby" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Galinha Baby
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541453.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Google five" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Google five
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541454.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Gumball" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Gumball
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541455.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Jake e os piratas" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Jake e os piratas
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541456.m3u8
+#EXTINF:-1 tvg-id="KIDSB" tvg-name="Kids" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Kids
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541457.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kipo" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Kipo
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541458.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mickey" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Mickey
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541459.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TÃ¡ chovendo HambÃºrguer" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] TÃ¡ chovendo HambÃºrguer
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541460.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Jiban" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Jiban
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541461.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Moranguinho" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Moranguinho
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541462.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mr. Maker" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Mr. Maker
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541463.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mucha luta" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Mucha luta
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541464.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MÃºmias Vivas" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] MÃºmias Vivas
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541465.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="O Pequeno urso" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] O Pequeno urso
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541466.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Oggy" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Oggy
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541467.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Os Simpsons 31" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Os Simpsons 31
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541468.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Os ursinhos carinhosos" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Os ursinhos carinhosos
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541469.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Os mistÃ©rios de Piu Piu e Frajola" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Os mistÃ©rios de Piu Piu e Frajola
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541470.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Patati PatatÃ¡" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Patati PatatÃ¡
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541471.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="O pequeno Scooby" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] O pequeno Scooby
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541472.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pink e cÃ©rebro" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Pink e cÃ©rebro
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541473.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pole position" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Pole position
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541474.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Punk" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Punk
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541475.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rambo" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Rambo
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541476.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ren e stimpy" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Ren e stimpy
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541477.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rocko" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Rocko
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541478.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Samurai Jack" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Samurai Jack
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541479.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Shaun sheep" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Shaun sheep
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541480.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Shazaam" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Shazaam
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541481.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sitio do pica pau amarelo" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Sitio do pica pau amarelo
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541482.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Streer Fight" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Streer Fight
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541483.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Superamigos" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Superamigos
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541484.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tazmania" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Tazmania
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541485.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Transformers" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Transformers
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541486.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Quack" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] TV Quack
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541487.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SupercampeÃµes" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] SupercampeÃµes
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541488.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="As novas aventuras do Superman" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] As novas aventuras do Superman
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541489.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bob esponja T09a12" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Bob esponja T09a12
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541490.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Chapolin T01 a03" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Chapolin T01 a03
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541491.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Chapolin T04 a 07" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Chapolin T04 a 07
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541492.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Denis pimentinha" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Denis pimentinha
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541493.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Doutora Brinquedo" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Doutora Brinquedo
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541494.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dragonball heroes" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Dragonball heroes
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541495.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Hercules" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Hercules
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541496.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Jackie Chan" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Jackie Chan
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541497.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cuphead a sÃ©rie" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Cuphead a sÃ©rie
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541498.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Jovens Titans em aÃ§Ã£o T06" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Jovens Titans em aÃ§Ã£o T06
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541499.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Jurassic Word acampamento JurÃ¡ssico" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Jurassic Word acampamento JurÃ¡ssico
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541500.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Luluzinha" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Luluzinha
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541501.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Miami Vice" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Miami Vice
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541502.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mickey Donald e Pateta" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Mickey Donald e Pateta
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541503.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="O Maskara" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] O Maskara
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541504.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Simpsons T32" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Simpsons T32
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541505.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Patrulha canina T05" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Patrulha canina T05
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541506.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pernalonga e seus amigos" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Pernalonga e seus amigos
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541507.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Super homem anos 40" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Super homem anos 40
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541508.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Teletubbies" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Teletubbies
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541509.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Thundercats" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Thundercats
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541510.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tom e Jerry em New York" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Tom e Jerry em New York
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541511.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 04" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] CINE SKY 04
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541516.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Os FLINSTONES" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Os FLINSTONES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541548.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Eu A Patroa e as CrianÃ§as" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Eu A Patroa e as CrianÃ§as
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541549.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UM MALUCO NO PEDAÃ‡O" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] UM MALUCO NO PEDAÃ‡O
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541550.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ben 10" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Ben 10
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541558.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ben 10 ForÃ§a alienÃ­gena" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Ben 10 ForÃ§a alienÃ­gena
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541559.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CAPITÃƒO CAVERNA" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] CAPITÃƒO CAVERNA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541560.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ACDC - LIVE AT RIVER PLATE" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] ACDC - LIVE AT RIVER PLATE
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541565.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DR. HOUSE T01 E T02" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] DR. HOUSE T01 E T02
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541568.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DR. HOUSE T03 E T04" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] DR. HOUSE T03 E T04
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541569.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DR. HOUSE T05 E T06" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] DR. HOUSE T05 E T06
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541570.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DR. HOUSE T07 E T08" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] DR. HOUSE T07 E T08
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541571.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SEE" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] SEE
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541572.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bibo pai & bob filho" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Bibo pai & bob filho
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541573.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cadillacs e Dinossauro" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Cadillacs e Dinossauro
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541574.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A Corrida espacial" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] A Corrida espacial
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541575.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A FamÃ­lia Adams" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] A FamÃ­lia Adams
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541576.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A FAMILIA DRÃCULA" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] A FAMILIA DRÃCULA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541577.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A MULHER MARAVILHA" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] A MULHER MARAVILHA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541578.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ANDY PANDA" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] ANDY PANDA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541579.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="As meninas superpoderosas" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] As meninas superpoderosas
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541580.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AS MENINAS SUPERPODEROSAS GERAÃ‡AO Z" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] AS MENINAS SUPERPODEROSAS GERAÃ‡AO Z
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541581.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="As TerrÃ­veis aventuras de Billy e mandy" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] As TerrÃ­veis aventuras de Billy e mandy
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541582.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A Turma do Bairro" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] A Turma do Bairro
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541583.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A Turma do Pato Bill" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] A Turma do Pato Bill
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541584.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BACAMARTE E CHUMBINHO" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] BACAMARTE E CHUMBINHO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541585.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Batfino" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Batfino
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541586.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Batman" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Batman
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541587.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Batman Do Futuro" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Batman Do Futuro
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541588.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Batman Gotham Knight" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Batman Gotham Knight
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541589.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CapitÃ£o Lento" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] CapitÃ£o Lento
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541590.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Charlie Chan" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Charlie Chan
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541591.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ComichÃ£o e cocadinha" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] ComichÃ£o e cocadinha
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541592.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Delvin o Motoqueiro" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Delvin o Motoqueiro
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541593.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Duelo Xiaolin" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Duelo Xiaolin
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541594.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fantasminha Legal" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Fantasminha Legal
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541595.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fantomas" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Fantomas
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541596.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="G. I. Joe: Sigma 6" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] G. I. Joe: Sigma 6
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541597.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Godzilla" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Godzilla
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541598.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Happy Tree Frieds" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Happy Tree Frieds
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541599.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Hey Arnold" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Hey Arnold
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541600.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Homem de Ferro" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Homem de Ferro
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541601.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ilha dos Desafios" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Ilha dos Desafios
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541602.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Jambo e RuviÃ£o" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Jambo e RuviÃ£o
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541603.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Migthor" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Migthor
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541604.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Medabots" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Medabots
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541605.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MansÃ£o Foster" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] MansÃ£o Foster
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541606.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="O Coisa" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] O Coisa
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541607.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Os Pinguins de Madagascar" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Os Pinguins de Madagascar
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541608.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Phineas e Ferb" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Phineas e Ferb
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541609.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Turma da Monica" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Turma da Monica
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541610.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Os Sete monstrinhos" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Os Sete monstrinhos
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541611.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Carga pesada" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Carga pesada
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541612.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mega Man" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Mega Man
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541613.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="90 Dias para casar T01 a T04" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] 90 Dias para casar T01 a T04
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541616.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OperaÃ§Ã£o Fronteira Brasil" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] OperaÃ§Ã£o Fronteira Brasil
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541617.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cine FicÃ§Ã£o" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Cine FicÃ§Ã£o
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541618.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cine LanÃ§amentos" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Cine LanÃ§amentos
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541619.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cine Star Wars" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Cine Star Wars
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541620.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Os Normais" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Os Normais
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541621.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A Grande FamÃ­lia do Alasca" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] A Grande FamÃ­lia do Alasca
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541622.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cine Marvel" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] Cine Marvel
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541623.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24h pica pau" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] 24h pica pau
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541624.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H O SOCIO" tvg-logo="" group-title="âœ”ï¸ CANAIS 24HS",[COLOR pink][B]FORMIGAtv:[/B][/COLOR] 24H O SOCIO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow][B]Lista.Sem.Travas:[/B][/COLOR][COLOR pink][B]37-9.91253261[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://190.102.43.113:80/Formigatv/offilinetv1852/1541625.m3u8
