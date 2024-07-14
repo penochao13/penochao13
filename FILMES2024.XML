@@ -3,16 +3,6 @@
 
 
 
-
-<item>
-<title>teste youtube</title>
-<link><link>plugin://plugin.video.resolverurl_player?url=https://youtu.be/Ol-Voq0jEkk</link>
-<thumbnail></thumbnail>
-<genre></genre>
-<fanart></fanart>
-<info></info>
-</item>
-
 <item>
 <title>[B][COLOR red]Twisters (2024)[/COLOR] [COLOR purple]Dublada & Legendada[/COLOR][/B] (2024)</title>
 <link>plugin://plugin.video.resolverurl_player?url=https://filemoon.sx/d/qfy8v1c7s8x3$nome=[B][COLOR blue]Filme 01 filemoon [/COLOR][/B]</link>
@@ -25,7 +15,7 @@
 
 <item>
 <title>[B][COLOR red]Um Lugar Silencioso: Dia Um (2024)[/COLOR] [COLOR purple]Dublada & Legendada[/COLOR][/B]</title>
-<utube>lml3mW-FGLc$nome=[B][COLOR red]Trailer - Como Vender a Lua (2024) Youtube [/COLOR][/B]</utube>
+<utube>lml3mW-FGLc</utube>$nome=[B][COLOR red]Trailer - Como Vender a Lua (2024) Youtube [/COLOR][/B]
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AF5B3E812EC1C7244839C3998B2710A0082381E7$nome=[B][COLOR red]Filme 01 Como Vender a Lua (2024) Link Elementun[/COLOR][/B]</link>
 <link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/v/4B1aAabOb4tKKD9$nome=[B][COLOR purple]Filme 02 Como Vender a Lua (2024) Link Direto [/COLOR][/B]</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pN9BtzUeqPIKybAu9baihz6YzyO.jpg</thumbnail>
