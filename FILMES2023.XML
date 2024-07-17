@@ -1,6 +1,62 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
+
+
+<item>
+<title>Billy Boy (2017/24)</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:84e0a412faf10bf1cabf2cfa3846405c07d9f8f8</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/a1fAKX4wxnv91lbgb6q9Oc8tvmz.jpg</thumbnail>
+<genre>Crime, Drama, Thriller</genre>
+<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/a1fAKX4wxnv91lbgb6q9Oc8tvmz.jpg</fanart>
+<info>Quando um adolescente furioso (Blake Jenner) descobre que um amigo próximo foi morto, a tristeza põe em risco seu futuro e ele se vê envolvido em perigo.</info>
+</item>
+
+<item>
+<title>Segredos Entre Amigos (2022/24)</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:072650028d56d5dcb57a3e093e3d1811ddf5b0df</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9T6T6fc5STsosZdaue8gBz8C2RW.jpg</thumbnail>
+<genre>Comédia, Drama</genre>
+<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9T6T6fc5STsosZdaue8gBz8C2RW.jpg</fanart>
+<info>Após anos sem se verem, um grupo de amigos se reúne para celebrarem juntos o Dia de Nossa Senhora do Carmo.</info>
+</item>
+
+<item>
+<title>Magnum 578 (2022/24)</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:38e6cad299aa9d9d04f775a0d81525f1ea036659</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/96RTCoAC86dusyBhwoBzZUS8OzF.jpg</thumbnail>
+<genre>Ação</genre>
+<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/96RTCoAC86dusyBhwoBzZUS8OzF.jpg</fanart>
+<info>Ao descobrir que sua filha de seis anos foi sequestrada, um motorista de caminhão começa uma intensa e solitária jornada em busca do sequestrador.</info>
+</item>
+
+<item>
+<title>O Código do Silêncio (2021/24)</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1b74883d9d5708104ddd711a7c5eeb7bf1f16f29</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/j80L97soVZdgSM3S4fXpSUFvOM0.jpg</thumbnail>
+<genre>Drama, Crime</genre>
+<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/j80L97soVZdgSM3S4fXpSUFvOM0.jpg</fanart>
+<info>Assombrada pela morte de seu irmão, Emma retorna a sua cidade natal e reacende uma antiga paixão com Tommy, um pescador de lagostas local.</info>
+</item>
+
+<item>
+<title>Uma Aventura Selvagem (2021/24)</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d32b7bb13d6988f611b2b12090d750ab982649b9</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/frvYa719jCQd7Fd11jH9sYcmj7Z.jpg</thumbnail>
+<genre>Aventura, Ação</genre>
+<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/frvYa719jCQd7Fd11jH9sYcmj7Z.jpg</fanart>
+<info>Versão baixo orçamento da Asylum (para Jungle Cruise da Disney) onde irmãos aventureiros são atacados por animais da selva amazônica, enquanto procuram seu pai desaparecido. Lutando contra um ataque implacável, eles logo começam a perceber que algo muito mais sinistro está acontecendo.</info>
+</item>
+
+<item>
+<title>Minsk em Chamas (2022)</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c2eaa38165acb4c98c6af759e7bf25b0e2763676</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4NRA2l9XByR3cDgG1ljUTUWFsvC.jpg</thumbnail>
+<genre>Drama</genre>
+<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4NRA2l9XByR3cDgG1ljUTUWFsvC.jpg</fanart>
+<info>Pasha e Yulia são um jovem casal que saem para dar uma volta nas ruas de Minsk. Mas uma simples caminhada se transforma em um verdadeiro inferno quando pessoas inocentes são vítimas da brutalidade da polícia local.</info>
+</item>
+
 <item>
 <title>A.Marcadora.de.Cicatrizes.2024</title>
 <link>plugin://plugin.video.resolverurl_player?url=https://plex.cineroom.eu.org/2:/FILMES/720/R/Rebel.Moon-Parte.2-A.Marcadora.de.Cicatrizes.2024.mkv</link>
