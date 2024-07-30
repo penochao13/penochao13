@@ -10,7 +10,7 @@
 <externallink>https://raw.githubusercontent.com/penochao13/penochao13/main/ENTRADA.XML</externallink>
 </channel>
 
-<channel>ab
+<channel>
 <name>[B][COLOR red]Filmes Lançamentos - 2024[/COLOR] [COLOR purple]Dublados e Legendados 2024[/COLOR][/B]</name>
 <thumbnail>https://archive.org/download/3566846/3566846.jpg</thumbnail>
 <fanart>https://archive.org/download/3566846/3566846.jpg</fanart>
@@ -131,14 +131,6 @@
 </channel>
 
 <channel>
-<name>[B][COLOR red]Youtube My[/COLOR] [COLOR purple]Diversos Conteúdos[/COLOR][/B]</name>
-<thumbnail>https://archive.org/download/3566846/3566846.jpg</thumbnail>
-<fanart>https://archive.org/download/3566846/3566846.jpg</fanart>
-<info>[COLOR red] [COLOR blue] Bem vindo ao addon Tv ao Vivo [/COLOR]</info>
-<externallink>https://raw.githubusercontent.com/penochao13/penochao13/main/YOUTUBEMY.XML</externallink>
-</channel>
-
-<channel>
 <name>[B][COLOR purple]Tv ao Vivo 02[/COLOR] [COLOR red]Diversos Canais[/COLOR][/B]</name>
 <thumbnail>https://archive.org/download/3566846/3566846.jpg</thumbnail>
 <fanart>https://archive.org/download/3566846/3566846.jpg</fanart>
@@ -153,6 +145,16 @@
 <info>[COLOR red] [COLOR blue] Bem vindo ao addon Tv ao Vivo 02[/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/penochao13/penochao13/main/TVAOVIVOTOURO.XML</externallink>
 </channel>
+
+<channel>
+<name>[B][COLOR red]Youtube My[/COLOR] [COLOR purple]Diversos Conteúdos[/COLOR][/B]</name>
+<thumbnail>https://archive.org/download/3566846/3566846.jpg</thumbnail>
+<fanart>https://archive.org/download/3566846/3566846.jpg</fanart>
+<info>[COLOR red] [COLOR blue] Bem vindo ao addon Tv ao Vivo [/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/penochao13/penochao13/main/YOUTUBEMY.XML</externallink>
+</channel>
+
+
 
 
 </channels>
