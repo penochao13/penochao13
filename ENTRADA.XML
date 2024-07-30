@@ -59,14 +59,6 @@
 </channel>
 
 <channel>
-<name>[B][COLOR red]Filmes Adultos e Canais[/COLOR] [COLOR purple]ADULTOS +18[/COLOR][/B]</name>
-<thumbnail>https://archive.org/download/3566846/3566846.jpg</thumbnail>
-<fanart>https://archive.org/download/3566846/3566846.jpg</fanart>
-<info>[COLOR red] [COLOR blue] Bem vindo ao addon Trailers Filmes [/COLOR]</info>
-<externallink>https://raw.githubusercontent.com/penochao13/penochao13/main/FILMESADULTOS.XML</externallink>
-</channel>
-
-<channel>
 <name>[B][COLOR red]Séries Lançamentos - 2024[/COLOR] [COLOR purple]Dublados e Legendados 2024[/COLOR][/B]</name>
 <thumbnail>https://archive.org/download/3566846/3566846.jpg</thumbnail>
 <fanart>https://archive.org/download/3566846/3566846.jpg</fanart>
@@ -128,14 +120,6 @@
 <fanart>https://archive.org/download/3566846/3566846.jpg</fanart>
 <info>[COLOR red] [COLOR blue] Bem vindo ao addon Runtime [/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/penochao13/penochao13/main/RUNTIME.XML</externallink>
-</channel>
-
-<channel>
-<name>[B][COLOR red]Tv e FiLmes Adultos[/COLOR] [COLOR purple]+18[/COLOR][/B]</name>
-<thumbnail>https://archive.org/download/24f-6ac-05-8e-98-45a-3-8d-14-268149873730/_24f6ac05-8e98-45a3-8d14-268149873730.jpg</thumbnail>
-<fanart>https://archive.org/download/24f-6ac-05-8e-98-45a-3-8d-14-268149873730/_24f6ac05-8e98-45a3-8d14-268149873730.jpg</fanart>
-<info>[COLOR red] [COLOR blue] Bem vindo ao addon Filmes [/COLOR]</info>
-<externallink>https://raw.githubusercontent.com/penochao13/penochao13/main/TVEFILMESADULTOS</externallink>
 </channel>
 
 <channel>
