@@ -171,11 +171,19 @@
 </channel>
 
 <channel>
-<name>[B][COLOR red]Tv ao Vivo 4[/COLOR] [COLOR purple]Diversos Canais[/COLOR][/B]</name>
+<name>[B][COLOR red]Tv ao Vivo 04[/COLOR] [COLOR purple]Diversos Canais[/COLOR][/B]</name>
 <thumbnail>https://archive.org/download/3566846/3566846.jpg</thumbnail>
 <fanart>https://archive.org/download/3566846/3566846.jpg</fanart>
 <info>[COLOR red] [COLOR blue] Bem vindo ao addon Tv ao Vivo ModF4[/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/penochao13/penochao13/refs/heads/main/TVAOVIVOMODF4.XML</externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR purple]Tv ao Vivo 05 - Bill[/COLOR] [COLOR red]Diversos Canais[/COLOR][/B]</name>
+<thumbnail>https://archive.org/download/3566846/3566846.jpg</thumbnail>
+<fanart>https://archive.org/download/3566846/3566846.jpg</fanart>
+<info>[COLOR red] [COLOR blue] Bem vindo ao addon Tv ao Vivo 05[/COLOR]</info>
+<externallink></externallink>
 </channel>
 
 <channel>
