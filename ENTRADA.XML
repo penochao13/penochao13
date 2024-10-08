@@ -123,7 +123,7 @@
 </channel>
 
 <channel>
-<name>[B][COLOR red]Pluto Tv[/COLOR] [COLOR purple]Online[/COLOR][/B]</name>
+<name>[B][COLOR purple]Pluto Tv[/COLOR] [COLOR red]Online[/COLOR][/B]</name>
 <thumbnail>https://archive.org/download/3566846/3566846.jpg</thumbnail>
 <fanart>https://archive.org/download/3566846/3566846.jpg</fanart>
 <info>[COLOR red] [COLOR blue] Bem vindo ao addon PlutoTv [/COLOR]</info>
@@ -131,7 +131,15 @@
 </channel>
 
 <channel>
-<name>[B][COLOR purple]Runtime[/COLOR] [COLOR red]Filmes e Séries Online[/COLOR][/B]</name>
+<name>[B][COLOR blue]Pluto Tv02[/COLOR] [COLOR yellow]Online[/COLOR][/B]</name>
+<thumbnail>https://archive.org/download/3566846/3566846.jpg</thumbnail>
+<fanart>https://archive.org/download/3566846/3566846.jpg</fanart>
+<info>[COLOR red] [COLOR blue] Bem vindo ao addon PlutoTv02 [/COLOR]</info>
+<externallink></externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR red]Runtime[/COLOR] [COLOR purple]Filmes e Séries Online[/COLOR][/B]</name>
 <thumbnail>https://archive.org/download/3566846/3566846.jpg</thumbnail>
 <fanart>https://archive.org/download/3566846/3566846.jpg</fanart>
 <info>[COLOR red] [COLOR blue] Bem vindo ao addon Runtime [/COLOR]</info>
@@ -147,7 +155,7 @@
 </channel>
 
 <channel>
-<name>[B][COLOR purple]Tv ao Vivo 02[/COLOR] [COLOR red]Diversos Canais[/COLOR][/B]</name>
+<name>[B][COLOR red]Tv ao Vivo 02[/COLOR] [COLOR red]Diversos Canais[/COLOR][/B]</name>
 <thumbnail>https://archive.org/download/3566846/3566846.jpg</thumbnail>
 <fanart>https://archive.org/download/3566846/3566846.jpg</fanart>
 <info>[COLOR red] [COLOR blue] Bem vindo ao addon Tv ao Vivo 02[/COLOR]</info>
@@ -163,7 +171,7 @@
 </channel>
 
 <channel>
-<name>[B][COLOR purple]Tv ao Vivo 4[/COLOR] [COLOR red]Diversos Canais[/COLOR][/B]</name>
+<name>[B][COLOR red]Tv ao Vivo 4[/COLOR] [COLOR purple]Diversos Canais[/COLOR][/B]</name>
 <thumbnail>https://archive.org/download/3566846/3566846.jpg</thumbnail>
 <fanart>https://archive.org/download/3566846/3566846.jpg</fanart>
 <info>[COLOR red] [COLOR blue] Bem vindo ao addon Tv ao Vivo ModF4[/COLOR]</info>
@@ -171,7 +179,7 @@
 </channel>
 
 <channel>
-<name>[B][COLOR red]Youtube My[/COLOR] [COLOR purple]Diversos Conteúdos[/COLOR][/B]</name>
+<name>[B][COLOR purple]Youtube My[/COLOR] [COLOR red]Diversos Conteúdos[/COLOR][/B]</name>
 <thumbnail>https://archive.org/download/3566846/3566846.jpg</thumbnail>
 <fanart>https://archive.org/download/3566846/3566846.jpg</fanart>
 <info>[COLOR red] [COLOR blue] Bem vindo ao addon Tv ao Vivo [/COLOR]</info>
