@@ -4,7 +4,7 @@
 
 
 <item>
-<title> Meu Amigo da Escola é um Macaco - (2005/24)[B][COLOR purple] +12/Livre [/COLOR][/B]</title>
+<title Meu Amigo da Escola é um Macaco - (2005/24)[B][COLOR purple] +12/Livre [/COLOR][/B]</title>
 <link>lugin://plugin.video.resolverurl_player?url=https://streamtape.com/v/4DWQOwd9J2hKv19$nome=[B]Filme -  Meu Amigo da Escola é um Macaco (2024)</link>
 <link>plugin://plugin.video.youtube/play/?video_id=youtube$nome=[B]Trailer  Meu Amigo da Escola é um Macaco (2024)</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8BsJREuQyQ2lJW4ZIcEauFjBrve.jpg</thumbnail>
@@ -21,16 +21,6 @@
 <genre>Animação, Sci-Fi & Fantasy, Action & Adventure, Drama</genre>
 <fanart></fanart>
 <info>Após integrantes da renomada Agência de Pesquisa Espacial Brasileira, a BRASA, desaparecerem em uma misteriosa missão na Lua, visões estranhas começam a perturbar Pereira, um astronauta recém-afastado da organização. Agora, que seus colegas precisam de um resgate urgente, ele vê a oportunidade perfeita para seguir para o espaço buscando compreender a estranha abdução que vivenciou cinco anos antes. O que ele não imaginava era que estava indo para uma armadilha criado por uma entidade alienígena capaz de colocar em risco não só sua mente, como também toda a humanidade.</info>
-</item>
-
-<item>
-<title>Superman e Lois 4ª Temporada - (2024)[B][COLOR red] +10/Livre [/COLOR][/B]</title>
-<link>magnet:?xt=urn:btih:0290e9b63982ab2d725420fe66107fa9350ac620$nome=[B]Série - Superman e Lois 4ª Temporada - Episódios 01/02(2024)</link>
-<link>plugin://plugin.video.youtube/play/?video_id=FT_gkLnFm2g$nome=[B]Trailer Superman e Lois 4ª Temporada- EPISÓDIOS 01 E 02(2024)</link>
-<thumbnail>https://www.themoviedb.org/t/p/w1280/9oPfsz3PPgNjlaCXSu8PHrFB95F.jpg</thumbnail>
-<genre>Drama, Sci-Fi & Fantasy</genre>
-<fanart></fanart>
-<info>Clark Kent, o Superman, maior herói do mundo, e sua companheira Lois Lane, uma famosa jornalista, se esforçam para lidar com o estresse e as complexidades cotidianas de serem pais que trabalham na sociedade contemporânea.</info>
 </item>
 
 <item>
@@ -915,6 +905,16 @@
 <genre>Comédia / Drama</genre>
 <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wl853HBLemksS0eqphY1GOuJBpX.jpg</fanart>
 <info>Sunny é estrelado por Rashida Jones como Suzie, uma americana que mora em Kyoto, no Japão, cuja vida vira de cabeça para baixo quando seu marido e filho desaparecem em um misterioso acidente de avião. Como conforto, ela ganha a Sunny, um dos novos robôs domésticos fabricados pela empresa de eletrônicos de seu marido. Embora Suzie inicialmente se ressinta das tentativas de Sunny de preencher o vazio em sua vida, elas gradualmente formam uma amizade inesperada. Juntas, descobrem a verdade sobre o que aconteceu com a família de Suzie e se envolvem perigosamente em um mundo que Suzie nunca soube que existia.</info>
+</item>
+
+<item>
+<title>Superman e Lois 4ª Temporada - (2024)[B][COLOR red] +10/Livre [/COLOR][/B]</title>
+<link>magnet:?xt=urn:btih:0290e9b63982ab2d725420fe66107fa9350ac620$nome=[B]Série - Superman e Lois 4ª Temporada - Episódios 01/02(2024)</link>
+<link>plugin://plugin.video.youtube/play/?video_id=FT_gkLnFm2g$nome=[B]Trailer Superman e Lois 4ª Temporada- EPISÓDIOS 01 E 02(2024)</link>
+<thumbnail>https://www.themoviedb.org/t/p/w1280/9oPfsz3PPgNjlaCXSu8PHrFB95F.jpg</thumbnail>
+<genre>Drama, Sci-Fi & Fantasy</genre>
+<fanart></fanart>
+<info>Clark Kent, o Superman, maior herói do mundo, e sua companheira Lois Lane, uma famosa jornalista, se esforçam para lidar com o estresse e as complexidades cotidianas de serem pais que trabalham na sociedade contemporânea.</info>
 </item>
 
 <item>
