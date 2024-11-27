@@ -5,6 +5,15 @@
 
 
 <item>
+<title>Marya teste</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://superflixapi.dev/filme/tt33516233</link>
+<thumbnail></thumbnail>
+<genre></genre>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
 <title>A Linha da Extinção - Legendado - (2024)</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:022931709203F8EF13BF6365553AA7718623C3F3</link>
 <thumbnail>https://www.themoviedb.org/t/p/w1280/78292PRberNP7imIVlteg8NMQRB.jpg</thumbnail>
