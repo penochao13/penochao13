@@ -6,6 +6,15 @@
 
 
 <item>
+<title>testenovosite</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://superflixapi.dev/filme/tt32627545</link>
+<thumbnail></thumbnail>
+<genre></genre>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
 <title>Moana 2 - Legendado (2024)</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A6107508CC89BAAF6466176C6903DB406FE1B26C</link>
 <thumbnail>https://www.themoviedb.org/t/p/w1280/m0SbwFNCa9epW1X60deLqTHiP7x.jpg</thumbnail>
