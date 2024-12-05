@@ -5,6 +5,15 @@
 
 
 <item>
+<title>teste sitesuperflix</title>
+<link>plugin://plugin.video.resolverurl_player?url=https://superflixapi.dev/filme/tt19757204</link>
+<thumbnail></thumbnail>
+<genre></genre>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
 <title>O Trem Italiano da Felicidade - (2024)</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8bed54da92e14cd78aaa7fbabb19abaefa8577ff</link>
 <thumbnail>https://www.themoviedb.org/t/p/w1280/irJWotYKjGsmkVrbVSScsDPUHSw.jpg</thumbnail>
