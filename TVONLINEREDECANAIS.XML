@@ -1,4 +1,5 @@
-https://dknmyxfim5lxlfxvzq7btn36vy0vcrbx.lambda-url.us-east-1.on.aws/?url=https://play.embehub.com/AMC/index.fmp4.m3u8
-https://dknmyxfim5lxlfxvzq7btn36vy0vcrbx.lambda-url.us-east-1.on.aws/?url=https://play.embehub.com/SBTSP/index.fmp4.m3u8
-https://dknmyxfim5lxlfxvzq7btn36vy0vcrbx.lambda-url.us-east-1.on.aws/?url=https://play.embehub.com/GloboSP/index.fmp4.m3u8
-https://dknmyxfim5lxlfxvzq7btn36vy0vcrbx.lambda-url.us-east-1.on.aws/?url=https://play.embehub.com/BANDSP/index.fmp4.m3u8
+plugin://plugin.video.resolverurl_player?url=https://dknmyxfim5lxlfxvzq7btn36vy0vcrbx.lambda-url.us-east-1.on.aws/?url=https://play.embehub.com/AMC/index.fmp4.m3u8
+plugin://plugin.video.resolverurl_player?url=https://dknmyxfim5lxlfxvzq7btn36vy0vcrbx.lambda-url.us-east-1.on.aws/?url=https://play.embehub.com/SBTSP/index.fmp4.m3u8
+plugin://plugin.video.resolverurl_player?url=https://dknmyxfim5lxlfxvzq7btn36vy0vcrbx.lambda-url.us-east-1.on.aws/?url=https://play.embehub.com/GloboSP/index.fmp4.m3u8
+plugin://plugin.video.resolverurl_player?url=https://dknmyxfim5lxlfxvzq7btn36vy0vcrbx.lambda-url.us-east-1.on.aws/?url=https://play.embehub.com/BANDSP/index.fmp4.m3u8
+
