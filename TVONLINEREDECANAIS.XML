@@ -1,7 +1,4 @@
-#EXTINF:
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=https://dknmyxfim5lxlfxvzq7btn36vy0vcrbx.lambda-url.us-east-1.on.aws/?url=https://play.embehub.com/AMC/index.fmp4.m3u8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=https://dknmyxfim5lxlfxvzq7btn36vy0vcrbx.lambda-url.us-east-1.on.aws/?url=https://play.embehub.com/SBTSP/index.fmp4.m3u8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=https://dknmyxfim5lxlfxvzq7btn36vy0vcrbx.lambda-url.us-east-1.on.aws/?url=https://play.embehub.com/GloboSP/index.fmp4.m3u8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]@ PLUGINSTREAMING[/COLOR]&maxbitrate=0&buffer=20191129153332&url=https://dknmyxfim5lxlfxvzq7btn36vy0vcrbx.lambda-url.us-east-1.on.aws/?url=https://play.embehub.com/BANDSP/index.fmp4.m3u8
+#EXTM3U
 
-#EXTINF:
+#EXTINF:-1 tvg-id="SBT Rede - SAT Analógico" tvg-name="SBT SP HD" tvg-logo="https://tvonline.fan/wp-content/uploads/2023/12/SBT.png" group-title="Canais | Abertos",SBT SP HD
+https://dknmyxfim5lxlfxvzq7btn36vy0vcrbx.lambda-url.us-east-1.on.aws/?url=https://play.embehub.com/SBTSP/index.fmp4.m3u8
